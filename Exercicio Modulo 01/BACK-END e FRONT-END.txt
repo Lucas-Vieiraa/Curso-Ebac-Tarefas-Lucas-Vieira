@@ -1,0 +1,16 @@
+BACK-END:
+
+são sistemas de APIS / MICROSSERVIÇOS utilizados para fazer a comunicação entre o cliente/servidor e o banco de dados, onde se desenvolve toda a regra de negócio da aplicação.
+
+EXEMPLO:
+
+quando abrimos um vídeo no youtube e apertamos no botão de play é enviado uma requisição HTTP para o Back-End e então ele retorna essa funcionalidade autorizando a reprodução do vídeo.
+
+
+FRONT-END:
+
+como eu gosto de falar são o rosto da aplicação, desde a parte de UX (onde ficará cada botão, imagem para que o usuário tenha uma boa experiencia ao mexer no sistema) até a parte de UI(estilos, cores, tipo de imagens para que o usuário tenha uma ótima visualização). Dito isto todos os elementos visuais de uma aplicação é a parte do front onde ela solicita uma funcionalidade (botão do play) ao back end e assim quando retornar é mostrado na tela o resultado.
+
+EXEMPLO:
+
+todos os botões, animações, parte visual do youtube é o front-end.

@@ -1,0 +1,11 @@
+JSP: Páginas Antigas
+
+jsp é uma tecnologia que gera a parte front end para as regras de negócio da linguagem java assim mostrando os dados requisitados ao back end na tela, porém utiliza apenas de paginas html onde toda vez que tiver uma requisição a uma página será gerada uma nova página, assim podendo recarregar a página.
+
+
+Angular: Páginas Modernas
+
+angular é um framework que utiliza a linguagem TypeScript, por ser algo independente do back-end pode-se ter o seu próprio padrão de desenvolvimento podendo fazer suas próprias rotas,  utiliza html (esqueleto da página), css(aparência da página) javascript(movimentos, animações,) e o TypeScript (funcionalidades,rotas). Por utilizar de todas essas tecnoligias esse framework consegue ser mais escalavel, dinâmico e organizado podendo chamar requisições sem recarregar páginas.
+
+
+
